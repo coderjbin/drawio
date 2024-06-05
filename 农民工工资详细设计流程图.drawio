@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-05T08:03:18.814Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="AYozyL_J_yQvFB_7-CLv" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-05T08:04:30.515Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="4ZNz5HWKmCqz9zlLIFUC" version="24.4.13" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1744" dy="1099" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1221" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -81,7 +81,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9LDn9u9Lr8wdJQs9lt3B-8" value="系统根据各地政策试算存储比例和金额" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="9LDn9u9Lr8wdJQs9lt3B-3">
-          <mxGeometry x="27.49499999999999" y="540" width="120" height="60" as="geometry" />
+          <mxGeometry x="27.49" y="540" width="162.51" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9LDn9u9Lr8wdJQs9lt3B-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="9LDn9u9Lr8wdJQs9lt3B-3" source="9LDn9u9Lr8wdJQs9lt3B-11" target="9LDn9u9Lr8wdJQs9lt3B-31">
           <mxGeometry relative="1" as="geometry" />
@@ -194,16 +194,16 @@
           <mxGeometry x="100" y="1360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9LDn9u9Lr8wdJQs9lt3B-62" value="人社初步审核试算比例和金额（比例和金额支持修改）" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="9LDn9u9Lr8wdJQs9lt3B-3">
-          <mxGeometry x="27.50499999999998" y="720" width="120" height="60" as="geometry" />
+          <mxGeometry x="27.5" y="720" width="162.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9LDn9u9Lr8wdJQs9lt3B-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="9LDn9u9Lr8wdJQs9lt3B-3" source="9LDn9u9Lr8wdJQs9lt3B-73" target="9LDn9u9Lr8wdJQs9lt3B-62">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9LDn9u9Lr8wdJQs9lt3B-73" value="系统创建待办自动流转有管辖权的设区市&lt;div&gt;或&lt;span style=&quot;background-color: initial;&quot;&gt;人社手动流转&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="9LDn9u9Lr8wdJQs9lt3B-3">
-          <mxGeometry x="27.489999999999995" y="630" width="120" height="60" as="geometry" />
+          <mxGeometry x="27.49" y="630" width="162.51" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9LDn9u9Lr8wdJQs9lt3B-65" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;mso-ascii-font-family:Calibri;&lt;br/&gt;mso-hansi-font-family:Calibri;mso-bidi-font-family:&#39;Times New Roman&#39;;font-size:10.5000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;提醒施工单位确认试算结果，进行工资保证金备案，可人工触发发送短信&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="9LDn9u9Lr8wdJQs9lt3B-3">
-          <mxGeometry x="19.999999999999986" y="810" width="135" height="70" as="geometry" />
+          <mxGeometry x="20" y="810" width="180" height="70" as="geometry" />
         </mxCell>
         <mxCell id="9LDn9u9Lr8wdJQs9lt3B-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="9LDn9u9Lr8wdJQs9lt3B-3" source="9LDn9u9Lr8wdJQs9lt3B-62" target="9LDn9u9Lr8wdJQs9lt3B-65">
           <mxGeometry relative="1" as="geometry" />
