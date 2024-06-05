@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-05T07:43:12.057Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="JiZP_rs1yIgYGJMJ7Vk0" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-05T07:55:22.089Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="gNZXgXD9L5mqw8IKqPCF" version="24.4.13" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1436" dy="905" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
         <mxCell id="9LDn9u9Lr8wdJQs9lt3B-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="9LDn9u9Lr8wdJQs9lt3B-2" source="9LDn9u9Lr8wdJQs9lt3B-77" target="9LDn9u9Lr8wdJQs9lt3B-80">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9LDn9u9Lr8wdJQs9lt3B-77" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;mso-ascii-font-family:Calibri;&lt;br/&gt;mso-hansi-font-family:Calibri;mso-bidi-font-family:&#39;Times New Roman&#39;;font-size:10.5000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;履行告知义务（告知试算结果和理由，区域内缓、免、少政策，办理流程）&lt;/font&gt;&lt;/span&gt;&lt;font style=&quot;font-family: 宋体; font-size: 10.5pt; background-color: initial;&quot; face=&quot;宋体&quot;&gt;施工单位确定适用政策情况&lt;/font&gt;&lt;span style=&quot;font-family: 宋体; font-size: 10.5pt; background-color: initial;&quot;&gt; &lt;/span&gt;&lt;font style=&quot;font-family: 宋体; font-size: 10.5pt; background-color: initial;&quot; face=&quot;宋体&quot;&gt;选择缴存方式&lt;/font&gt;&lt;span style=&quot;font-family: 宋体; font-size: 10.5pt; background-color: initial;&quot;&gt; &lt;/span&gt;&lt;font style=&quot;font-family: 宋体; font-size: 10.5pt; background-color: initial;&quot; face=&quot;宋体&quot;&gt;缴存额度&lt;/font&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="9LDn9u9Lr8wdJQs9lt3B-2">
+        <mxCell id="9LDn9u9Lr8wdJQs9lt3B-77" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;mso-ascii-font-family:Calibri;&lt;br/&gt;mso-hansi-font-family:Calibri;mso-bidi-font-family:&#39;Times New Roman&#39;;font-size:10.5000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;履行告知义务（告知试算结果和理由，区域内缓、免、少政策，办理流程）&lt;/font&gt;&lt;/span&gt;&lt;font style=&quot;font-family: 宋体; font-size: 10.5pt; background-color: initial;&quot; face=&quot;宋体&quot;&gt;施工单位确定适用政策情况&lt;/font&gt;&lt;span style=&quot;font-family: 宋体; font-size: 10.5pt; background-color: initial;&quot;&gt; &lt;/span&gt;&lt;font style=&quot;font-family: 宋体; font-size: 10.5pt; background-color: initial;&quot; face=&quot;宋体&quot;&gt;选择缴存方式、&lt;/font&gt;&lt;font style=&quot;font-family: 宋体; font-size: 10.5pt; background-color: initial;&quot; face=&quot;宋体&quot;&gt;缴存额度&lt;/font&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="9LDn9u9Lr8wdJQs9lt3B-2">
           <mxGeometry x="27.75" y="900" width="206.25" height="90" as="geometry" />
         </mxCell>
         <mxCell id="9LDn9u9Lr8wdJQs9lt3B-80" value="施工单位备案申报" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="9LDn9u9Lr8wdJQs9lt3B-2">
@@ -292,7 +292,7 @@
         <mxCell id="9LDn9u9Lr8wdJQs9lt3B-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="9LDn9u9Lr8wdJQs9lt3B-1" source="9LDn9u9Lr8wdJQs9lt3B-111" target="9LDn9u9Lr8wdJQs9lt3B-123">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9LDn9u9Lr8wdJQs9lt3B-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="9LDn9u9Lr8wdJQs9lt3B-1" source="9LDn9u9Lr8wdJQs9lt3B-109" target="9LDn9u9Lr8wdJQs9lt3B-111">
+        <mxCell id="9LDn9u9Lr8wdJQs9lt3B-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="9LDn9u9Lr8wdJQs9lt3B-1" source="9LDn9u9Lr8wdJQs9lt3B-109" target="9LDn9u9Lr8wdJQs9lt3B-111">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9LDn9u9Lr8wdJQs9lt3B-39" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -318,6 +318,18 @@
         </mxCell>
         <mxCell id="9LDn9u9Lr8wdJQs9lt3B-76" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="140" y="945" width="50" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="9LDn9u9Lr8wdJQs9lt3B-127" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-family: 宋体; font-size: 10.5pt;&quot;&gt;备案申报&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="20" y="1162" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9LDn9u9Lr8wdJQs9lt3B-128" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="140" y="1094" width="50" height="196" as="geometry" />
+        </mxCell>
+        <mxCell id="9LDn9u9Lr8wdJQs9lt3B-129" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-family: 宋体; font-size: 10.5pt;&quot;&gt;备案&lt;/span&gt;&lt;/b&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;font-family: 宋体; font-size: 10.5pt;&quot;&gt;审核&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="20" y="1505" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9LDn9u9Lr8wdJQs9lt3B-130" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="140" y="1320" width="50" height="430" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
