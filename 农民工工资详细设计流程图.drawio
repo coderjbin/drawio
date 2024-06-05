@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-05T10:55:23.390Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="_nuobfPQdvF_MGsey_3C" version="24.4.13" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-06-05T10:55:29.284Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="q-Jz17O53WjyLnZX8H3C" version="24.4.13" type="github" pages="4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="工资保证金备案流程">
     <mxGraphModel dx="2035" dy="1282" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -441,7 +441,7 @@
           <mxGeometry x="451" y="50" width="322" height="1070" as="geometry" />
         </mxCell>
         <mxCell id="vnhB8O3sZDuSLwfbq01C-31" value="企业到金融机构办理缴存" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="4Dj1U6c2MewrKhiWukcP-20">
-          <mxGeometry x="177" y="595" width="145" height="60" as="geometry" />
+          <mxGeometry x="167" y="595" width="145" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vnhB8O3sZDuSLwfbq01C-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="4Dj1U6c2MewrKhiWukcP-20" source="vnhB8O3sZDuSLwfbq01C-33" target="vnhB8O3sZDuSLwfbq01C-34">
           <mxGeometry relative="1" as="geometry" />
