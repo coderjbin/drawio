@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-05T07:55:22.089Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="gNZXgXD9L5mqw8IKqPCF" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-05T07:58:49.229Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="l5wyTEjPN-0BG1xt3GYA" version="24.4.13" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1436" dy="905" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -218,7 +218,7 @@
           <mxGeometry x="95.01" y="1584" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9LDn9u9Lr8wdJQs9lt3B-123" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体; font-size: 10.5pt;&quot;&gt;设区市人社部门审核备案结果，更新项目缴存状态&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="9LDn9u9Lr8wdJQs9lt3B-3">
-          <mxGeometry x="60" y="2220" width="190" height="60" as="geometry" />
+          <mxGeometry x="60" y="2250" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9LDn9u9Lr8wdJQs9lt3B-4" value="金融机构" style="swimlane;startSize=20;html=1;" vertex="1" parent="9LDn9u9Lr8wdJQs9lt3B-1">
           <mxGeometry x="1165" y="20" width="327.5" height="2470" as="geometry" />
@@ -289,11 +289,15 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="9LDn9u9Lr8wdJQs9lt3B-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="9LDn9u9Lr8wdJQs9lt3B-1" source="9LDn9u9Lr8wdJQs9lt3B-111" target="9LDn9u9Lr8wdJQs9lt3B-123">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="9LDn9u9Lr8wdJQs9lt3B-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="9LDn9u9Lr8wdJQs9lt3B-1" source="9LDn9u9Lr8wdJQs9lt3B-109" target="9LDn9u9Lr8wdJQs9lt3B-111">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9LDn9u9Lr8wdJQs9lt3B-139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="9LDn9u9Lr8wdJQs9lt3B-1" source="9LDn9u9Lr8wdJQs9lt3B-111" target="9LDn9u9Lr8wdJQs9lt3B-123">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1320" y="2300" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="9LDn9u9Lr8wdJQs9lt3B-39" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="140" y="190" width="50" height="420" as="geometry" />
@@ -330,6 +334,24 @@
         </mxCell>
         <mxCell id="9LDn9u9Lr8wdJQs9lt3B-130" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="140" y="1320" width="50" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="9LDn9u9Lr8wdJQs9lt3B-131" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-family: 宋体; font-size: 10.5pt;&quot;&gt;缴存办理&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="20" y="1975" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9LDn9u9Lr8wdJQs9lt3B-132" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="140" y="1780" width="50" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="9LDn9u9Lr8wdJQs9lt3B-137" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-family: 宋体; font-size: 10.5pt;&quot;&gt;备案确认&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="20" y="2300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9LDn9u9Lr8wdJQs9lt3B-138" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="140" y="2270" width="50" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="9LDn9u9Lr8wdJQs9lt3B-140" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-family: 宋体; font-size: 10.5pt;&quot;&gt;备案登记&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="20" y="2420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9LDn9u9Lr8wdJQs9lt3B-141" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="140" y="2420" width="50" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
