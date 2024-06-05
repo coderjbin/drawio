@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-05T12:25:16.596Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="kyFNAvZdteT7mBiheoym" version="24.4.13" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-06-05T12:27:09.200Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="zjvuLbR-wjuzBK-uTWlb" version="24.4.13" type="github" pages="4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="工资保证金备案流程">
-    <mxGraphModel dx="1436" dy="905" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="2700" math="0" shadow="0">
+    <mxGraphModel dx="2035" dy="1282" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="2700" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -255,7 +255,7 @@
         <mxCell id="mK7_Rjm9uQmZdw8ifcBr-68" value="金融机构线上办理缴存" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="mK7_Rjm9uQmZdw8ifcBr-65">
           <mxGeometry x="15" y="1930" width="135" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mK7_Rjm9uQmZdw8ifcBr-69" value="金融机构确认经办结果，&lt;span style=&quot;text-indent: -94.5pt; background-color: initial; font-family: 宋体; font-size: 10.5pt;&quot;&gt;经办结果同步流转至&lt;/span&gt;&lt;span style=&quot;text-indent: -94.5pt; background-color: initial; font-family: 宋体; font-size: 10.5pt;&quot;&gt;设区市人社部门审核确认，向&lt;/span&gt;&lt;span style=&quot;text-indent: -94.5pt; background-color: initial; font-family: 宋体; font-size: 10.5pt;&quot;&gt;设区市人社部门提供电子保函或保单，并根据情况邮寄送达保函、保单原件。&lt;/span&gt;&lt;p style=&quot;margin-left:94.5000pt;text-indent:-94.5000pt;mso-char-indent-count:-9.0000;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体; font-size: 10.5pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="mK7_Rjm9uQmZdw8ifcBr-65">
+        <mxCell id="mK7_Rjm9uQmZdw8ifcBr-69" value="金融机构确认经办结果，&lt;span style=&quot;background-color: initial; text-indent: -94.5pt; font-family: 宋体; font-size: 10.5pt;&quot;&gt;经办结果同步流转至&lt;/span&gt;&lt;span style=&quot;background-color: initial; text-indent: -94.5pt; font-family: 宋体; font-size: 10.5pt;&quot;&gt;设区市人社部门审核确认，向&lt;/span&gt;&lt;span style=&quot;background-color: initial; text-indent: -94.5pt; font-family: 宋体; font-size: 10.5pt;&quot;&gt;设区市人社部门提供电子保函或保单，并根据情况邮寄送达保函、保单原件。&lt;/span&gt;&lt;br&gt;&lt;p style=&quot;margin-left:94.5000pt;text-indent:-94.5000pt;mso-char-indent-count:-9.0000;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体; font-size: 10.5pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="mK7_Rjm9uQmZdw8ifcBr-65">
           <mxGeometry x="18.75" y="2120" width="290" height="100" as="geometry" />
         </mxCell>
         <mxCell id="mK7_Rjm9uQmZdw8ifcBr-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="mK7_Rjm9uQmZdw8ifcBr-0" source="mK7_Rjm9uQmZdw8ifcBr-55" target="mK7_Rjm9uQmZdw8ifcBr-3">
@@ -318,7 +318,7 @@
           <mxGeometry x="209" y="132" width="50" height="420" as="geometry" />
         </mxCell>
         <mxCell id="mK7_Rjm9uQmZdw8ifcBr-85" value="备案提醒" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="99" y="312" width="120" height="60" as="geometry" />
+          <mxGeometry x="89" y="312" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mK7_Rjm9uQmZdw8ifcBr-86" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="209" y="652" width="50" height="60" as="geometry" />
