@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-05T07:58:49.229Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="l5wyTEjPN-0BG1xt3GYA" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-05T08:03:18.814Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="AYozyL_J_yQvFB_7-CLv" version="24.4.13" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1436" dy="905" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1744" dy="1099" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -81,19 +81,24 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9LDn9u9Lr8wdJQs9lt3B-8" value="系统根据各地政策试算存储比例和金额" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="9LDn9u9Lr8wdJQs9lt3B-3">
-          <mxGeometry x="100.005" y="540" width="120" height="60" as="geometry" />
+          <mxGeometry x="27.49499999999999" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9LDn9u9Lr8wdJQs9lt3B-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="9LDn9u9Lr8wdJQs9lt3B-3" source="9LDn9u9Lr8wdJQs9lt3B-11" target="9LDn9u9Lr8wdJQs9lt3B-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="9LDn9u9Lr8wdJQs9lt3B-143" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9LDn9u9Lr8wdJQs9lt3B-32">
+          <mxGeometry x="-0.6186" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="9LDn9u9Lr8wdJQs9lt3B-11" value="无项目信息？" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="9LDn9u9Lr8wdJQs9lt3B-3">
-          <mxGeometry x="180" y="190" width="270" height="60" as="geometry" />
+          <mxGeometry x="170" y="190" width="270" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9LDn9u9Lr8wdJQs9lt3B-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="9LDn9u9Lr8wdJQs9lt3B-3" source="9LDn9u9Lr8wdJQs9lt3B-14" target="9LDn9u9Lr8wdJQs9lt3B-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9LDn9u9Lr8wdJQs9lt3B-14" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;mso-ascii-font-family:Calibri;&lt;br/&gt;mso-hansi-font-family:Calibri;mso-bidi-font-family:&#39;Times New Roman&#39;;font-size:10.5000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;人社部门在内网手动录入&lt;/span&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;mso-ascii-font-family:Calibri;&lt;br/&gt;mso-hansi-font-family:Calibri;mso-bidi-font-family:&#39;Times New Roman&#39;;font-size:10.5000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="9LDn9u9Lr8wdJQs9lt3B-3">
-          <mxGeometry x="200" y="300" width="175" height="50" as="geometry" />
+          <mxGeometry x="200" y="310" width="175" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9LDn9u9Lr8wdJQs9lt3B-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="9LDn9u9Lr8wdJQs9lt3B-3" source="9LDn9u9Lr8wdJQs9lt3B-6" target="9LDn9u9Lr8wdJQs9lt3B-11">
           <mxGeometry relative="1" as="geometry" />
@@ -111,16 +116,16 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9LDn9u9Lr8wdJQs9lt3B-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="9LDn9u9Lr8wdJQs9lt3B-3" source="9LDn9u9Lr8wdJQs9lt3B-17" target="9LDn9u9Lr8wdJQs9lt3B-8">
+        <mxCell id="9LDn9u9Lr8wdJQs9lt3B-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="9LDn9u9Lr8wdJQs9lt3B-3" source="9LDn9u9Lr8wdJQs9lt3B-17" target="9LDn9u9Lr8wdJQs9lt3B-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9LDn9u9Lr8wdJQs9lt3B-20" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9LDn9u9Lr8wdJQs9lt3B-19">
-          <mxGeometry x="-0.0865" y="-1" relative="1" as="geometry">
+        <mxCell id="9LDn9u9Lr8wdJQs9lt3B-146" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9LDn9u9Lr8wdJQs9lt3B-145">
+          <mxGeometry x="-0.72" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9LDn9u9Lr8wdJQs9lt3B-17" value="录入成功？" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="9LDn9u9Lr8wdJQs9lt3B-3">
-          <mxGeometry x="220" y="380" width="135" height="60" as="geometry" />
+          <mxGeometry x="220" y="400" width="135" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9LDn9u9Lr8wdJQs9lt3B-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="9LDn9u9Lr8wdJQs9lt3B-3" source="9LDn9u9Lr8wdJQs9lt3B-31" target="9LDn9u9Lr8wdJQs9lt3B-33">
           <mxGeometry relative="1" as="geometry" />
@@ -139,23 +144,23 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9LDn9u9Lr8wdJQs9lt3B-31" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;mso-ascii-font-family:Calibri;&lt;br/&gt;mso-hansi-font-family:Calibri;mso-bidi-font-family:&#39;Times New Roman&#39;;font-size:10.5000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;能确定是否应当缴存？&lt;/span&gt;&lt;/p&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="9LDn9u9Lr8wdJQs9lt3B-3">
-          <mxGeometry x="460" y="240" width="270" height="60" as="geometry" />
+          <mxGeometry x="387" y="290" width="270" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9LDn9u9Lr8wdJQs9lt3B-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="9LDn9u9Lr8wdJQs9lt3B-3" source="9LDn9u9Lr8wdJQs9lt3B-33" target="9LDn9u9Lr8wdJQs9lt3B-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9LDn9u9Lr8wdJQs9lt3B-33" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;mso-ascii-font-family:Calibri;&lt;br/&gt;mso-hansi-font-family:Calibri;mso-bidi-font-family:&#39;Times New Roman&#39;;font-size:10.5000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;提醒市级人社部门纳入监管&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-family: 宋体; font-size: 10.5pt;&quot;&gt;督促补正关键信息（列出数据项）启动&lt;/span&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;font-family: 宋体; font-size: 10.5pt;&quot;&gt;备案提醒&lt;/span&gt;&lt;/b&gt;&lt;span style=&quot;background-color: initial; font-family: 宋体; font-size: 10.5pt;&quot;&gt;流程&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="9LDn9u9Lr8wdJQs9lt3B-3">
-          <mxGeometry x="477.5" y="340" width="235" height="60" as="geometry" />
+          <mxGeometry x="404.5" y="400" width="235" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9LDn9u9Lr8wdJQs9lt3B-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="9LDn9u9Lr8wdJQs9lt3B-3" source="9LDn9u9Lr8wdJQs9lt3B-36" target="9LDn9u9Lr8wdJQs9lt3B-8">
+        <mxCell id="9LDn9u9Lr8wdJQs9lt3B-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="9LDn9u9Lr8wdJQs9lt3B-3" source="9LDn9u9Lr8wdJQs9lt3B-36" target="9LDn9u9Lr8wdJQs9lt3B-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="820" y="570" />
+              <mxPoint x="730" y="570" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="9LDn9u9Lr8wdJQs9lt3B-36" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;mso-ascii-font-family:Calibri;&lt;br/&gt;mso-hansi-font-family:Calibri;mso-bidi-font-family:&#39;Times New Roman&#39;;font-size:10.5000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;提请行业主管部门、市县人社部门进行补正&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="9LDn9u9Lr8wdJQs9lt3B-3">
-          <mxGeometry x="760" y="340" width="120" height="60" as="geometry" />
+          <mxGeometry x="670" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9LDn9u9Lr8wdJQs9lt3B-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="9LDn9u9Lr8wdJQs9lt3B-3" source="9LDn9u9Lr8wdJQs9lt3B-45" target="9LDn9u9Lr8wdJQs9lt3B-47">
           <mxGeometry relative="1" as="geometry" />
@@ -189,16 +194,16 @@
           <mxGeometry x="100" y="1360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9LDn9u9Lr8wdJQs9lt3B-62" value="人社初步审核试算比例和金额（比例和金额支持修改）" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="9LDn9u9Lr8wdJQs9lt3B-3">
-          <mxGeometry x="100.01499999999999" y="720" width="120" height="60" as="geometry" />
+          <mxGeometry x="27.50499999999998" y="720" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9LDn9u9Lr8wdJQs9lt3B-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="9LDn9u9Lr8wdJQs9lt3B-3" source="9LDn9u9Lr8wdJQs9lt3B-73" target="9LDn9u9Lr8wdJQs9lt3B-62">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9LDn9u9Lr8wdJQs9lt3B-73" value="系统创建待办自动流转有管辖权的设区市&lt;div&gt;或&lt;span style=&quot;background-color: initial;&quot;&gt;人社手动流转&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="9LDn9u9Lr8wdJQs9lt3B-3">
-          <mxGeometry x="100" y="630" width="120" height="60" as="geometry" />
+          <mxGeometry x="27.489999999999995" y="630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9LDn9u9Lr8wdJQs9lt3B-65" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;mso-ascii-font-family:Calibri;&lt;br/&gt;mso-hansi-font-family:Calibri;mso-bidi-font-family:&#39;Times New Roman&#39;;font-size:10.5000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;提醒施工单位确认试算结果，进行工资保证金备案，可人工触发发送短信&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="9LDn9u9Lr8wdJQs9lt3B-3">
-          <mxGeometry x="92.50999999999999" y="810" width="135" height="70" as="geometry" />
+          <mxGeometry x="19.999999999999986" y="810" width="135" height="70" as="geometry" />
         </mxCell>
         <mxCell id="9LDn9u9Lr8wdJQs9lt3B-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="9LDn9u9Lr8wdJQs9lt3B-3" source="9LDn9u9Lr8wdJQs9lt3B-62" target="9LDn9u9Lr8wdJQs9lt3B-65">
           <mxGeometry relative="1" as="geometry" />
