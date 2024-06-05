@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-05T12:45:59.628Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="cBh4xK1ychoKrVdKv_o0" version="24.4.13" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-06-05T12:46:40.637Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="AadwnJv-qtCJoc65twlN" version="24.4.13" type="github" pages="4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="工资保证金备案流程">
     <mxGraphModel dx="1221" dy="769" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="2700" background="none" math="0" shadow="0">
       <root>
@@ -737,13 +737,7 @@
         <mxCell id="OulfUzhMRMfV3pI267jN-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="dHIqazh8CsMDVFyoAfAD-1" source="OulfUzhMRMfV3pI267jN-32" target="OulfUzhMRMfV3pI267jN-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OulfUzhMRMfV3pI267jN-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dHIqazh8CsMDVFyoAfAD-1" source="OulfUzhMRMfV3pI267jN-32" target="OulfUzhMRMfV3pI267jN-37">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="OulfUzhMRMfV3pI267jN-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="dHIqazh8CsMDVFyoAfAD-1" source="OulfUzhMRMfV3pI267jN-35" target="OulfUzhMRMfV3pI267jN-41">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="OulfUzhMRMfV3pI267jN-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="dHIqazh8CsMDVFyoAfAD-1" source="OulfUzhMRMfV3pI267jN-39" target="OulfUzhMRMfV3pI267jN-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dHIqazh8CsMDVFyoAfAD-22" value="金融机构" style="swimlane;startSize=20;html=1;swimlaneFillColor=#D4E1F5;" vertex="1" parent="dHIqazh8CsMDVFyoAfAD-1">
@@ -770,6 +764,12 @@
           <mxGeometry x="-0.5802" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="8r5BzPnKJfTJRB-Xd9YA-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="dHIqazh8CsMDVFyoAfAD-1" source="OulfUzhMRMfV3pI267jN-32" target="OulfUzhMRMfV3pI267jN-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8r5BzPnKJfTJRB-Xd9YA-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="dHIqazh8CsMDVFyoAfAD-1" source="OulfUzhMRMfV3pI267jN-39" target="OulfUzhMRMfV3pI267jN-41">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
