@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-05T12:18:40.497Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="Vzm5SVwEzm7Q4hXQ_Uj8" version="24.4.13" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-06-05T12:20:26.262Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="3bYQNNg3JZsXGavVm1XO" version="24.4.13" type="github" pages="4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="工资保证金备案流程">
-    <mxGraphModel dx="1968" dy="945" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="2700" math="0" shadow="0">
+    <mxGraphModel dx="1436" dy="905" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="2700" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -22,7 +22,7 @@
         <mxCell id="690ciPL95GRpchXhO9Ni-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="mK7_Rjm9uQmZdw8ifcBr-1" source="mK7_Rjm9uQmZdw8ifcBr-7" target="mK7_Rjm9uQmZdw8ifcBr-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mK7_Rjm9uQmZdw8ifcBr-7" value="施工单位补正材料" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="mK7_Rjm9uQmZdw8ifcBr-1">
+        <mxCell id="mK7_Rjm9uQmZdw8ifcBr-7" value="施工单位补正材料后重新发起" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="mK7_Rjm9uQmZdw8ifcBr-1">
           <mxGeometry x="81.87" y="1508" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mK7_Rjm9uQmZdw8ifcBr-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="mK7_Rjm9uQmZdw8ifcBr-1" source="mK7_Rjm9uQmZdw8ifcBr-9" target="mK7_Rjm9uQmZdw8ifcBr-12">
