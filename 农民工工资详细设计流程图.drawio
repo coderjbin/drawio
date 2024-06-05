@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-05T12:46:40.637Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="AadwnJv-qtCJoc65twlN" version="24.4.13" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-06-05T12:47:17.196Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="IhxjNqxHScnD9oaX8sWI" version="24.4.13" type="github" pages="4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="工资保证金备案流程">
     <mxGraphModel dx="1221" dy="769" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="2700" background="none" math="0" shadow="0">
       <root>
@@ -532,14 +532,6 @@
         <mxCell id="xVdrwMDSqXETpalUoFUf-15" value="人社更正信息" style="whiteSpace=wrap;html=1;strokeWidth=2;fontSize=13;fontFamily=Helvetica;" vertex="1" parent="xVdrwMDSqXETpalUoFUf-4">
           <mxGeometry x="57.5" y="760" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xVdrwMDSqXETpalUoFUf-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;fontFamily=Helvetica;" edge="1" parent="xVdrwMDSqXETpalUoFUf-1" source="xVdrwMDSqXETpalUoFUf-5" target="xVdrwMDSqXETpalUoFUf-22">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="xVdrwMDSqXETpalUoFUf-17" value="主送" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;fontFamily=Helvetica;" vertex="1" connectable="0" parent="xVdrwMDSqXETpalUoFUf-16">
-          <mxGeometry x="-0.2434" y="-1" relative="1" as="geometry">
-            <mxPoint x="1" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="xVdrwMDSqXETpalUoFUf-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;fontFamily=Helvetica;" edge="1" parent="xVdrwMDSqXETpalUoFUf-1" source="xVdrwMDSqXETpalUoFUf-5" target="xVdrwMDSqXETpalUoFUf-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -603,6 +595,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xVdrwMDSqXETpalUoFUf-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=13;fontFamily=Helvetica;" edge="1" parent="xVdrwMDSqXETpalUoFUf-1" source="xVdrwMDSqXETpalUoFUf-14" target="xVdrwMDSqXETpalUoFUf-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AonJDcD91Ux9yFR5wmvX-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="xVdrwMDSqXETpalUoFUf-1" source="xVdrwMDSqXETpalUoFUf-5" target="xVdrwMDSqXETpalUoFUf-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
