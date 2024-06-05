@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-05T12:10:44.969Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="nkvqn1aT3uZjuvgJoBLa" version="24.4.13" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-06-05T12:13:17.912Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="HwO-Nr7jn9nUgUPbkz17" version="24.4.13" type="github" pages="4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="工资保证金备案流程">
     <mxGraphModel dx="1968" dy="945" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="2700" math="0" shadow="0">
       <root>
@@ -14,22 +14,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mK7_Rjm9uQmZdw8ifcBr-3" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;mso-ascii-font-family:Calibri;&lt;br/&gt;mso-hansi-font-family:Calibri;mso-bidi-font-family:&#39;Times New Roman&#39;;font-size:10.5000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;履行告知义务（告知试算结果和理由，区域内缓、免、少政策，办理流程）&lt;/font&gt;&lt;/span&gt;&lt;font style=&quot;font-family: 宋体; font-size: 10.5pt; background-color: initial;&quot; face=&quot;宋体&quot;&gt;施工单位确定适用政策情况&lt;/font&gt;&lt;span style=&quot;font-family: 宋体; font-size: 10.5pt; background-color: initial;&quot;&gt; &lt;/span&gt;&lt;font style=&quot;font-family: 宋体; font-size: 10.5pt; background-color: initial;&quot; face=&quot;宋体&quot;&gt;选择缴存方式、&lt;/font&gt;&lt;font style=&quot;font-family: 宋体; font-size: 10.5pt; background-color: initial;&quot; face=&quot;宋体&quot;&gt;缴存额度&lt;/font&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="mK7_Rjm9uQmZdw8ifcBr-1">
-          <mxGeometry x="23.999999999999996" y="1023" width="206.25" height="90" as="geometry" />
+          <mxGeometry x="60.63" y="1002" width="133" height="129" as="geometry" />
         </mxCell>
-        <mxCell id="mK7_Rjm9uQmZdw8ifcBr-4" value="施工单位备案申报" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="mK7_Rjm9uQmZdw8ifcBr-1">
+        <mxCell id="mK7_Rjm9uQmZdw8ifcBr-4" value="施工单位在网办大厅&lt;div&gt;备案申报&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="mK7_Rjm9uQmZdw8ifcBr-1">
           <mxGeometry x="67.12999999999998" y="1159" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="mK7_Rjm9uQmZdw8ifcBr-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="mK7_Rjm9uQmZdw8ifcBr-1" source="mK7_Rjm9uQmZdw8ifcBr-6" target="mK7_Rjm9uQmZdw8ifcBr-4">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="116" y="790" />
-              <mxPoint x="9" y="790" />
-              <mxPoint x="9" y="1189" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="mK7_Rjm9uQmZdw8ifcBr-6" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;mso-ascii-font-family:Calibri;&lt;br/&gt;mso-hansi-font-family:Calibri;mso-bidi-font-family:&#39;Times New Roman&#39;;font-size:10.5000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;施工单位在门户网站主动申报&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="mK7_Rjm9uQmZdw8ifcBr-1">
-          <mxGeometry x="40" y="470" width="152.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="690ciPL95GRpchXhO9Ni-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="mK7_Rjm9uQmZdw8ifcBr-1" source="mK7_Rjm9uQmZdw8ifcBr-7" target="mK7_Rjm9uQmZdw8ifcBr-4">
           <mxGeometry relative="1" as="geometry" />
@@ -199,7 +187,7 @@
           <mxGeometry x="27.75" y="634" width="162.51" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mK7_Rjm9uQmZdw8ifcBr-55" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;mso-ascii-font-family:Calibri;&lt;br/&gt;mso-hansi-font-family:Calibri;mso-bidi-font-family:&#39;Times New Roman&#39;;font-size:10.5000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;提醒施工单位确认试算结果，进行工资保证金备案，可人工触发发送短信&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="mK7_Rjm9uQmZdw8ifcBr-15">
-          <mxGeometry x="18.740000000000002" y="965" width="180" height="70" as="geometry" />
+          <mxGeometry x="18.740000000000002" y="945" width="180" height="70" as="geometry" />
         </mxCell>
         <mxCell id="mK7_Rjm9uQmZdw8ifcBr-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="mK7_Rjm9uQmZdw8ifcBr-15" source="mK7_Rjm9uQmZdw8ifcBr-52" target="mK7_Rjm9uQmZdw8ifcBr-55">
           <mxGeometry relative="1" as="geometry" />
@@ -273,8 +261,14 @@
         <mxCell id="mK7_Rjm9uQmZdw8ifcBr-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="mK7_Rjm9uQmZdw8ifcBr-0" source="mK7_Rjm9uQmZdw8ifcBr-55" target="mK7_Rjm9uQmZdw8ifcBr-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mK7_Rjm9uQmZdw8ifcBr-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="mK7_Rjm9uQmZdw8ifcBr-0" source="mK7_Rjm9uQmZdw8ifcBr-33" target="mK7_Rjm9uQmZdw8ifcBr-6">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="mK7_Rjm9uQmZdw8ifcBr-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="mK7_Rjm9uQmZdw8ifcBr-0" source="mK7_Rjm9uQmZdw8ifcBr-33" target="mK7_Rjm9uQmZdw8ifcBr-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="116.25" y="530" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="35" y="477" />
+              <mxPoint x="35" y="1249" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="mK7_Rjm9uQmZdw8ifcBr-72" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mK7_Rjm9uQmZdw8ifcBr-71">
           <mxGeometry x="-0.8153" y="-1" relative="1" as="geometry">
