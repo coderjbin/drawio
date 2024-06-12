@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-12T09:59:28.020Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="v8OyJXUQvxq6gA96p2nV" version="24.5.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-06-12T10:01:45.440Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="jcSy8XuZybx1V5A9Gmv8" version="24.5.2" type="github" pages="4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="工资保证金备案流程">
     <mxGraphModel dx="1018" dy="633" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="2700" background="none" math="0" shadow="0">
       <root>
@@ -579,14 +579,6 @@
         </mxCell>
         <mxCell id="mB_lceCTJjx7jg5MEVds-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="4Dj1U6c2MewrKhiWukcP-1" source="PZmbheENcuJ6UtFlVNuM-2" target="PZmbheENcuJ6UtFlVNuM-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="7XE4GBG52d46R7wk8OVw-1" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;出具缴存通知书&lt;/font&gt;&lt;/b&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="655" y="2726" width="165" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="7XE4GBG52d46R7wk8OVw-2" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=halfCircle;endFill=0;endSize=6;strokeWidth=2;sketch=0;fontSize=12;curved=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FF3333;" edge="1" parent="1" target="7XE4GBG52d46R7wk8OVw-1" source="PZmbheENcuJ6UtFlVNuM-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="488" y="2764" as="sourcePoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
